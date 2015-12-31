@@ -78,7 +78,6 @@ COPY url (id, original_url, count) FROM stdin;
 1	www.arianflores.com	123
 2	www.facebook.com	456
 3	www.espn.com	666
-4	www.yahoo.com	0
 5	www.netflix.com	1000
 \.
 
